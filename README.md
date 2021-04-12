@@ -273,8 +273,6 @@ Go to:
 and copy one of the folders, example 12.0.1, and rename like: 12.2.1 ({id}) and paste it again.
 The {id} is whatever is under () in other folder examples.
 
-<img src="https://i.imgur.com/YJQ6EAM.png" />
-
 ## Buffer not defined / not found
 Place this line:
 global.Buffer = global.Buffer || require('buffer').Buffer
