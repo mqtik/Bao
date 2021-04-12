@@ -1,0 +1,8 @@
+__tests__
+certs
+node_modules
+android/app/build
+android/.gradle/
+ios/build/
+android/.idea*
+android/.gradle*
