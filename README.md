@@ -8,14 +8,11 @@
 
 </div>
 
-# Newt for Phones
+# Bao for Phones
 
 
 
 # Run
-react-native run-ios
-
-react-native run-android
 
 (if JAVA 13 is set, switch to 8) ->
 export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
